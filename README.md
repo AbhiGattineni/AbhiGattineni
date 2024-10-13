@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **django**
 
-- 👨‍💻 All of my projects are available at [www.abhishekgattineni.com](www.abhishekgattineni.com)
+- 👨‍💻 All of my projects are available at [www.abhishekgattineni.com](https://www.abhishekgattineni.com/)
 
 - 📫 How to reach me **abhishekgattineni@gmail.com**
 
