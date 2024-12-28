@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [Anddhen-Group](https://www.anddhengroup.com/)
 
-- 🌱 I’m currently learning **django**
-
 - 👨‍💻 All of my projects are available at [www.abhishekgattineni.com](https://www.abhishekgattineni.com/)
 
 - 📫 How to reach me **abhishekgattineni@gmail.com**
